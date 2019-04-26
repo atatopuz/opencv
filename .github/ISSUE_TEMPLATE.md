@@ -10,7 +10,7 @@ Please:
 * Report only one problem per created issue.
 
 
-This is a template helping you to create an issue which can be processed as quickly as possible. This is the bug reporting section for the OpenCV library.
+This is a template helping you to create an issue which can be processed as quickly as possible. This is the bug reporting section for the OpenCV library,
 -->
 
 ##### System information (version)
@@ -18,7 +18,12 @@ This is a template helping you to create an issue which can be processed as quic
 - OpenCV => 3.1
 - Operating System / Platform => Windows 64 Bit
 - Compiler => Visual Studio 2015
+-->ary.
 -->
+
+##### System information (version)
+<!-- Example
+- OpenCV => 3.1
 
 - OpenCV => :grey_question:
 - Operating System / Platform => :grey_question:
